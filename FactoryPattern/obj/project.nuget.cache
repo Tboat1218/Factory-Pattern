@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "vtq+CmwYoz4=",
+  "dgSpecHash": "gwJWQBfl8CE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Harpe\\Desktop\\NET9\\Factory-Pattern\\FactoryPattern\\FactoryPattern.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/theoboateng/Desktop/repos/Factory-Pattern/FactoryPattern/FactoryPattern.csproj",
+  "expectedPackageFiles": [
+    "/Users/theoboateng/.nuget/packages/microsoft.netcore.app.ref/9.0.11/microsoft.netcore.app.ref.9.0.11.nupkg.sha512",
+    "/Users/theoboateng/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.11/microsoft.aspnetcore.app.ref.9.0.11.nupkg.sha512",
+    "/Users/theoboateng/.nuget/packages/microsoft.netcore.app.host.osx-arm64/9.0.11/microsoft.netcore.app.host.osx-arm64.9.0.11.nupkg.sha512"
+  ],
   "logs": []
 }
